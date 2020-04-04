@@ -1,0 +1,25 @@
+_repo: War-Lords-of-the-Moon_61674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davies, Linton
+    alias: Taney, Morton
+    gutenberg_agent_id: '51555'
+    url: http://www.gutenberg.org/2009/agents/51555
+description: ''
+gutenberg_issued: '2020-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Moon -- Fiction'
+- GITenberg
+title: War-Lords of the Moon
+url: http://www.gutenberg.org/ebooks/61674
